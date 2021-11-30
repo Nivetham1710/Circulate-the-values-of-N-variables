@@ -26,7 +26,7 @@ def circulate():
     print("After circulating the values are:",list1)
     ~~~
 ## Output:
-![Github.logo]nump1.png
+![Github.logo](nump1.png)
 
 ## Result:
 finished successfully
