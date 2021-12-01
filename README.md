@@ -12,21 +12,17 @@ Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
 
-### Step 5: 
-### Step 6: 
 ## Program:
 ~~~
-#Program to circulate N values.
-#Developed by: Nivetha M 
-#RegisterNumber:21004620
 def circulate():
-    list1 = [10,20,30,40,50,60]
-    n = int(input())
-    list1 = list1[n:]+list1[:n]
-    print("After circulating the values are:",list1)
-    ~~~
+    n=int(input())
+    l=[10,20,30,40,50,60]
+    l=l[n:]+l[:n]
+    print("After circulating the values are:",l)
+~~~
+
 ## Output:
-![Github.logo](nump1.png)
+![GitHub Logo](CIRCULATE.png)
 
 ## Result:
-finished successfully
+PROGRAM FINISHED SUCCESSFULLY.
